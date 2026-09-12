@@ -7,9 +7,9 @@ Darwin version:          25.5.0
 Architecture:            arm64
 Running under Rosetta:   NO
 Available memory:        16384 MB
-Date:                    2026-09-12T22:49:49Z
+Date:                    2026-09-12T22:50:54Z
 [Licensing::Module] Trying to connect to existing licensing client channel...
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lowkeyadi" at "2026-09-12T22:49:49.565815Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lowkeyadi" at "2026-09-12T22:50:54.865411Z"
 Initialising UDS system complete:
   - System type: Client
   - Resource namespace: 804ad5b6ea6b2cbe1d71c5f38c31f2da
@@ -32,9 +32,9 @@ AssetImportWorkerHW1
 -logFile
 Logs/AssetImportWorkerHW1.log
 -srvPort
-50150
+50189
 -parentPid
-5188
+5452
 -analyticsCloudUserId
 18967700887659
 -analyticsLocalProjectId
@@ -97,7 +97,7 @@ Successfully changed project path to: /Users/lowkeyadi/Desktop/Dough To Door/Dou
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
 Player connection [8421711488]  Target information:
 
-Player connection [8421711488]  * "[IP] 192.168.1.36 [Port] 0 [Flags] 2 [Guid] 235774795 [EditorId] 235774795 [Version] 1048832 [Id] OSXEditor(0,Adis-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+Player connection [8421711488]  * "[IP] 192.168.1.36 [Port] 0 [Flags] 2 [Guid] 1805410949 [EditorId] 1805410949 [Version] 1048832 [Id] OSXEditor(0,Adis-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
 
 Player connection [8421711488] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [8421711488] Host joined alternative multi-casting on [225.0.0.222:34997]...
@@ -112,7 +112,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 2.89 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.69 ms, found 2 plugins.
 Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
 [EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -135,22 +135,22 @@ Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Res
 Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
 Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56334
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56518
 CodeReloadManager initialized
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.18.3+d7ffd15
-  Session Id:              4b3de89ea26b447995f57ef06adf588c
+  Session Id:              4d710384b3954a329fcad7c39ab41bd9
   Correlation Id:          8957cc5af759828a238feb4928a7fdbb
-  External correlation Id: 7243319789505793134
+  External correlation Id: 1522487334296186013
   Machine Id:              K8yk0/rRJMtvBsaMSwntaLo20Wg=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lowkeyadi" (connect: 0.00s, validation: 0.00s, handshake: 0.29s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lowkeyadi-notifications" at "2026-09-12T22:49:49.857505Z"
-[Licensing::Module] Licensing Background thread has ended after 0.29s
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lowkeyadi" (connect: 0.00s, validation: 0.00s, handshake: 0.27s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lowkeyadi-notifications" at "2026-09-12T22:50:55.131986Z"
+[Licensing::Module] Licensing Background thread has ended after 0.27s
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/6000.6.0f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/6000.6.0f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000882 seconds.
+Registered in 0.000912 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -159,22 +159,22 @@ Package Manager log level set to [2]
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  0.325 seconds
-Domain Reload Profiling: 563ms
-	BeginReloadAssembly (58ms)
+- Finished resetting the current domain, in  0.263 seconds
+Domain Reload Profiling: 504ms
+	BeginReloadAssembly (63ms)
 	RebuildNativeTypeToScriptingClass (8ms)
 	initialDomainReloadingComplete (25ms)
-	LoadAllAssembliesAndSetupDomain (144ms)
-		LoadAssemblies (58ms)
+	LoadAllAssembliesAndSetupDomain (143ms)
+		LoadAssemblies (63ms)
 		TypeCache.Refresh (105ms)
 			TypeCache.ScanAssembly (97ms)
 		AnalyzeDomain (0ms)
-	FinalizeReload (326ms)
+	FinalizeReload (263ms)
 		SetupLoadedEditorAssemblies (0ms)
 			InitializePlatformSupportModulesInManaged (3ms)
 			BeforeProcessingInitializeOnLoad (41ms)
-			ProcessInitializeOnLoadAttributes (36ms)
-			ProcessInitializeOnLoadMethodAttributes (202ms)
+			ProcessInitializeOnLoadAttributes (35ms)
+			ProcessInitializeOnLoadMethodAttributes (141ms)
 Initializing Unity extensions:
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
@@ -200,42 +200,39 @@ Native extension for WebGL target not found
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Scripting: successfully reloaded assembly
-- Finished resetting the current domain, in  0.344 seconds
-Domain Reload Profiling: 749ms
-	BeginReloadAssembly (83ms)
+- Finished resetting the current domain, in  0.320 seconds
+Domain Reload Profiling: 687ms
+	BeginReloadAssembly (69ms)
 		DisableScriptedObjects (3ms)
-		CreateAndSetChildDomain (19ms)
+		CreateAndSetChildDomain (10ms)
 	RebuildCommonClasses (4ms)
 	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (21ms)
-	LoadAllAssembliesAndSetupDomain (290ms)
-		LoadAssemblies (150ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (266ms)
+		LoadAssemblies (126ms)
 		TypeCache.Refresh (78ms)
 			TypeCache.ScanAssembly (70ms)
 		AnalyzeDomain (29ms)
 			BuildScriptInfoCaches (26ms)
-	FinalizeReload (344ms)
+	FinalizeReload (321ms)
 		SetupLoadedEditorAssemblies (0ms)
-			BeforeProcessingInitializeOnLoad (45ms)
-			ProcessInitializeOnLoadAttributes (125ms)
-			ProcessInitializeOnLoadMethodAttributes (26ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (126ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
 		AwakeInstancesAfterBackupRestoration (3ms)
 AcceleratorClientConnectionCallback - disconnected - :0
+Editor requested this worker to shutdown with reason: Editor is closing down
 WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
 WARNING: Shader Did you use #pragma only_renderers and omit this platform?
 WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
 Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
 Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
-Editor requested this worker to shutdown with reason: Editor is closing down
 Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Thread 0x402147000 may have been prematurely finalized
 Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6609 unused Assets / (9.7 MB). Loaded Objects now: 7468.
-Memory consumption went from 189.3 MB to 179.5 MB.
-Total: 4.564708 ms (FindLiveObjects: 0.346500 ms CreateObjectMapping: 0.102041 ms MarkObjects: 3.031625 ms  DeleteObjects: 1.007667 ms)
+Unloading 6609 unused Assets / (9.5 MB). Loaded Objects now: 7468.
+Memory consumption went from 189.0 MB to 179.5 MB.
+Total: 4.676125 ms (FindLiveObjects: 0.496625 ms CreateObjectMapping: 0.126458 ms MarkObjects: 2.965584 ms  DeleteObjects: 1.004125 ms)
 
-AcceleratorClientConnectionCallback - disconnected - :0
-Thread 0x4017c7000 may have been prematurely finalized
-AssetImportWorker is now disconnected from the server
-Process exiting
 [ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

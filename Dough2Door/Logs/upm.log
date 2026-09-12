@@ -1,31 +1,31 @@
-[2026-09-12T22:50:40.267Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 5452 --ipc-path /tmp/Unity-Upm-5452.sock -l 2 --log-file '/Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Logs/upm.log'
-[2026-09-12T22:50:40.281Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-5452.sock).
-[2026-09-12T22:50:40.282Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-5452.
-[2026-09-12T22:50:40.949Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:49.817Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 5707 --ipc-path /tmp/Unity-Upm-5707.sock -l 2 --log-file '/Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Logs/upm.log'
+[2026-09-12T22:52:49.831Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-5707.sock).
+[2026-09-12T22:52:49.831Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-5707.
+[2026-09-12T22:52:50.686Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:41.029Z][INFO] project:list-packages --> 200 (80 ms)
-[2026-09-12T22:50:41.037Z][INFO] config:project:get-registries <-- Request received
+[2026-09-12T22:52:50.772Z][INFO] project:list-packages --> 200 (86 ms)
+[2026-09-12T22:52:50.864Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-12T22:50:41.039Z][INFO] config:project:get-registries --> 200 (2 ms)
-[2026-09-12T22:50:41.048Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:50.868Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-09-12T22:52:50.874Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:41.088Z][INFO] project:list-packages --> 200 (40 ms)
-[2026-09-12T22:50:42.586Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:50.964Z][INFO] project:list-packages --> 200 (90 ms)
+[2026-09-12T22:52:52.719Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:42.612Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:52.744Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:42.630Z][INFO] project:list-packages --> 200 (44 ms)
-[2026-09-12T22:50:42.659Z][INFO] project:list-packages --> 200 (47 ms)
-[2026-09-12T22:50:42.698Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:52.768Z][INFO] project:list-packages --> 200 (49 ms)
+[2026-09-12T22:52:52.800Z][INFO] project:list-packages --> 200 (56 ms)
+[2026-09-12T22:52:52.829Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:42.732Z][INFO] config:project:get-registries <-- Request received
+[2026-09-12T22:52:52.875Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-12T22:50:42.736Z][INFO] config:project:get-registries --> 200 (4 ms)
-[2026-09-12T22:50:42.742Z][INFO] project:list-packages --> 200 (44 ms)
-[2026-09-12T22:50:43.578Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:52.878Z][INFO] project:list-packages --> 200 (49 ms)
+[2026-09-12T22:52:52.879Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-09-12T22:52:53.824Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:43.623Z][INFO] project:list-packages --> 200 (45 ms)
-[2026-09-12T22:50:45.231Z][INFO] project:list-packages <-- Request received
+[2026-09-12T22:52:53.875Z][INFO] project:list-packages --> 200 (51 ms)
+[2026-09-12T22:52:55.481Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-12T22:50:47.462Z][INFO] project:list-packages --> 200 (2231 ms)
-[2026-09-12T22:50:57.871Z][INFO] Received shutdown request (SIGTERM), shutting down Unity Package Manager
+[2026-09-12T22:52:57.008Z][INFO] project:list-packages --> 200 (1527 ms)
+[2026-09-12T22:53:49.565Z][INFO] Received shutdown request (SIGTERM), shutting down Unity Package Manager
