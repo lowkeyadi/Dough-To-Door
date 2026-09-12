@@ -1,0 +1,426 @@
+Unity Editor version:    6000.6.0f1 (f7f8ed4d1e24)
+Branch:                  6000.6/respin/6000.6.0f1-fa21a270ab12
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Date:                    2026-09-12T22:50:39Z
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 5453)
+VBCSCompiler prewarm took 1.91 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lowkeyadi" at "2026-09-12T22:50:39.99667Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/lowkeyadi/Desktop/Dough To Door/Dough2Door
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-lowkeyadi
+-hubSessionId
+8343b246-1dad-44cb-973a-d1838da3736c
+-accessToken
+5xwPGbuiLhnsEUSPBKCcmosbaMOSvUrqXtcU5hLhdJs011f
+Successfully changed project path to: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door
+/Users/lowkeyadi/Desktop/Dough To Door/Dough2Door
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8421711488]  Target information:
+
+Player connection [8421711488]  * "[IP] 192.168.1.36 [Port] 55504 [Flags] 2 [Guid] 545218840 [EditorId] 545218840 [Version] 1048832 [Id] OSXEditor(0,Adis-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8421711488] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8421711488] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              241ce38031124f3f9a0d861043523859
+  Correlation Id:          8957cc5af759828a238feb4928a7fdbb
+  External correlation Id: 4903047821228630794
+  Machine Id:              K8yk0/rRJMtvBsaMSwntaLo20Wg=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lowkeyadi" (connect: 0.00s, validation: 0.00s, handshake: 0.25s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lowkeyadi-notifications" at "2026-09-12T22:50:40.244528Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token 5xwPGbuiLh...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 18967700887659-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.25s
+[Package Manager] Connected to IPC stream "Upm-5452" after 0.1 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 804ad5b6ea6b2cbe1d71c5f38c31f2da
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Unity Data Store running and initialised
+Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M5 (high power)
+Metal devices available: 1
+0: Apple M5 (high power)
+Using device Apple M5 (high power)
+Initializing Metal device caps: Apple M5
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56452
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.0f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.0f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000387 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.275 seconds
+Domain Reload Profiling: 497ms
+	BeginReloadAssembly (43ms)
+		CreateAndSetChildDomain (7ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (144ms)
+		LoadAssemblies (37ms)
+		TypeCache.Refresh (103ms)
+			TypeCache.ScanAssembly (96ms)
+		AnalyzeDomain (0ms)
+	FinalizeReload (275ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (43ms)
+			ProcessInitializeOnLoadMethodAttributes (102ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 59 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.navigation@2.0.14 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b)
+    com.unity.collab-proxy@2.13.6 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.visualscripting@1.9.12 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.visualscripting@4edfcc09512f)
+    com.unity.searcher@4.9.5 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.profiling.core@8a49f7027d06)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.render-pipelines.universal@8457e85b8184)
+    com.unity.test-framework@1.8.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.test-framework@7a3849e09bd0)
+    com.unity.timeline@6.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.timeline@281d5f7e7d7d)
+    com.unity.ugui@2.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.ugui@23caec89ae27)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.render-pipelines.core@2d66c71e606e)
+    com.unity.shadergraph@17.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.shadergraph@ef6135652377)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.graph-authoring@1.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.collections@10fff0607388)
+    com.unity.test-framework.performance@6.6.0 (location: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Library/PackageCache/com.unity.test-framework.performance@0a60b857a52e)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Starting: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 0s232ms
+[685/899    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.22 seconds), 1 items updated, 899 evaluated
+Total cache size 31708008
+Total cache size after purge 31708008, took 00:00:00.0117805
+AssetDatabase: script compilation time: 0.560728s
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 3.45 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.419 seconds
+Domain Reload Profiling: 811ms
+	BeginReloadAssembly (94ms)
+		DisableScriptedObjects (8ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (268ms)
+		LoadAssemblies (121ms)
+		TypeCache.Refresh (84ms)
+			TypeCache.ScanAssembly (76ms)
+		AnalyzeDomain (33ms)
+			BuildScriptInfoCaches (28ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (419ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (43ms)
+			ProcessInitializeOnLoadAttributes (137ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Starting new worker id: 0 with log in /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=095bb80c31622418fa63683d23cb42fd): Total: 1.833 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=822 ms
+		Asset DB Callback time: managed=13 ms, native=3 ms
+		Scripting: domain reloads=1, domain reload time=408 ms, compile time=562 ms, other=21 ms
+		Project Asset Count: scripts=1368, non-scripts=2316
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 4.142ms
+	ApplyChangesToAssetFolders: 0.166ms
+	Scan: 261.903ms
+	Collect global state as custom dependencies: 9.139ms
+	CategorizeScriptCompilationAssets: 21.572ms
+	ProcessAssetsWithTransientArtifactChanges: 28.576ms
+	CategorizeAssets: 29.465ms
+	CompileScripts: 561.638ms
+	ImportOutOfDateAssets: 426.920ms (424.951ms without children)
+		UnloadImportedAssets: 0.598ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.351ms
+		ImportSchedulerStart: 0.997ms
+	PostProcessAllAssets: 13.978ms
+		MonoPostProcessAllAssets: 13.954ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 6.099ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.714ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.674ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.342ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.256ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.211ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.103ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.099ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.077ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.062ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.053ms
+	UnloadStreamsBegin: 0.866ms
+	PersistCurrentRevisions: 0.070ms
+	GenerateScriptTypeHashes: 0.602ms
+	GenerateScriptTypeSerializationHashes: 1.173ms
+	Untracked: 473.118ms
+
+Application.AssetDatabase Initial Refresh End
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Scanning for USB devices : 0.021ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Dough2Door
+2026-09-13 01:50:43.153 Unity[5452:129385] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x81b3cae40 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            1.860 ms
+	Integration:            6.534 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   8.410 ms
+Unloading 6621 unused Assets / (7.9 MB). Loaded Objects now: 7583.
+Memory consumption went from 265.4 MB to 257.5 MB.
+Total: 5.808167 ms (FindLiveObjects: 0.609750 ms CreateObjectMapping: 0.193500 ms MarkObjects: 3.486083 ms  DeleteObjects: 1.408750 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/lowkeyadi/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+[Project] Loading completed in 3.594 seconds
+	Project init time: 				2.991 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.123 seconds
+		Asset Database init time: 		0.163 seconds
+		Global illumination init time: 	0.000 seconds
+		Assemblies load time: 			0.510 seconds
+		Unity extensions init time: 	0.018 seconds
+		Asset Database refresh time: 	1.834 seconds
+	Scene opening time: 			0.479 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1789253443587,"processId":5452,"projectLoad":3.5940951670000003,"projectInit":2.991164542,"templateInit":0.0,"packageManagerInit":0.122691084,"assetDatabaseInit":0.163273583,"globalIlluminationInit":0.000383708,"assembliesLoad":0.509997584,"unityExtensionsInit":0.018107167,"assetDatabaseRefresh":1.834253,"sceneOpening":0.479452208}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1789253443587,"processId":5452,"editorVersion":"6000.6.0f1 (f7f8ed4d1e24)","branch":"6000.6/respin/6000.6.0f1-fa21a270ab12","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Worker ready: AssetImportWorkerHW0 0
+GPU Resident Drawer created.
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+GPU Resident Drawer disposed.
+GPU Resident Drawer created.
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Created GICache directory at /Users/lowkeyadi/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.004s, timestamps: [3.606 - 3.610]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "5xwPGbui"... (expires: 2026-09-13T00:32:34Z)
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-13 01:50:53.730 Unity[5452:129385] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x81b3cad00 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '8151b601d05d3e12de314c2aa1f82962') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=6180c49ef29638684367d2893c04e070 StaticDependenciesID=5b19720d9149525484b40148944c8e26 
+Asset Pipeline Refresh (id=688b533b6e3894506986d4e19f93eb98): Total: 0.057 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 99c9720ab356a0642a771bea13969a05 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 99c9720ab356a0642a771bea13969a05' -> (Import Result ID: '273d6356f286940163c85c7b7bcad4ed') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=b4491ddbae88a879b6308480a6079ca7 DependenciesID=26b4b749aa41401134f686441f5e647c StaticDependenciesID=5f453e7fefae3cdb9755b259f7cbc71f 
+Asset Pipeline Refresh (id=b1c67d345d7cc4cb2911521468ef2b5a): Total: 0.018 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Starting new worker id: 1 with log in /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/Logs/AssetImportWorkerHW1.log
+[Worker0] Imported GUID: 99c9720ab356a0642a771bea13969a05 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '5b51943718c8a1109a6f32c32aeb3666') in 0.030761 seconds
+MonoPathRemapper: Attempts to remap: 31885; Successful remaps: 18952
+Worker ready: AssetImportWorkerHW1 1
+Thread 0x429e9b000 may have been prematurely finalized
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout /Users/lowkeyadi/Desktop/Dough To Door/Dough2Door/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/lowkeyadi/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+GPU Resident Drawer disposed.
+Thread 0x42a0c7000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+Shutting down MSBuild server...
+Shutting down VB/C# compiler server...
+VB/C# compiler server shut down successfully.
+Thread 0x170ebf000 may have been prematurely finalized
+Thread 0x171293000 may have been prematurely finalized
+Thread 0x170f4b000 may have been prematurely finalized
+Thread 0x17131f000 may have been prematurely finalized
+Thread 0x1715c7000 may have been prematurely finalized
+Thread 0x171207000 may have been prematurely finalized
+Thread 0x17188f000 may have been prematurely finalized
+Thread 0x17191b000 may have been prematurely finalized
+Thread 0x171be3000 may have been prematurely finalized
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-lowkeyadi-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-lowkeyadi channel disconnected successfully.
+MSBuild server shut down successfully.
+Shut down UDS service system complete
+Thread 0x404cb3000 may have been prematurely finalized
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+debugger-agent: Unable to listen on 78
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1789253457883,"processId":5452,"allocatedMemory":13711697,"memoryLabels":[{"Default":199487},{"Permanent":15672},{"Thread":1056696},{"Manager":2329726},{"VertexData":8},{"Geometry":408},{"Texture":24},{"Shader":854652},{"Material":24},{"GfxDevice":42304},{"GfxThread":1920},{"Animation":968},{"Audio":1896},{"FreeType":8},{"FontEngine":736},{"Physics":2002},{"Physics2D":16},{"Serialization":16672},{"Input":43216},{"JobScheduler":448},{"TextLib":17778},{"Mono":56},{"MonoCode":72},{"ScriptingNativeRuntime":155024},{"BaseObject":49672},{"Resource":984},{"Renderer":2456},{"Transform":4693},{"File":25395},{"WebCam":32},{"Culling":32},{"Terrain":11346},{"Wind":24},{"String":571562},{"StaticString":3808},{"Utility":2692032},{"PoolAlloc":2584},{"AI":80},{"TypeTree":17293},{"ScriptManager":12640},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7240},{"Director":8288},{"CloudService":7584},{"WebRequest":520},{"VR":49426},{"SceneManager":616},{"Video":2112},{"LazyScriptCache":32},{"NativeArray":936},{"Camera":1177},{"Secure":9865},{"SerializationCache":9704},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Baselib":16},{"Analytics":568},{"Hierarchy":1492},{"UIElements":40},{"CoreStats":14536},{"Identifiers":7152},{"Gui":280902},{"EditorUtility":97502},{"VersionControl":8},{"Undo":939},{"AssetDatabase":4667430},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":36970},{"Upm":1788},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"HubClient":848},{"LocalIPC":208},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3205},{"Windowing":416},{"Licensing":992},{"AssetReference":32},{"IPCStream":7003}]}
